@@ -1,0 +1,17 @@
+{
+  "name": "payment-application-docs",
+  "version": "0.0.1",
+  "description": "Payment Application Docs Helps us to understand the payment prodcuts and services we have",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "keywords": [],
+  "author": "Payments Team",
+  "license": "ISC",
+  "devDependencies": {
+    "@vuepress/plugin-git": "^2.0.0-beta.49",
+    "vuepress": "^2.0.0-beta.49"
+  }
+}
