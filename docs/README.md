@@ -10,8 +10,8 @@ The Payment Applications Docs helps us to understand the payment products we hav
 
 ## List of applications
 
-- [Payment Gateway](/payment-gateway)
-- [Payment Card Service](/payment-service)
-- [Semafone App](/semafone)
+- [Payment Gateway](/payment-applications-docs/payment-gateway)
+- [Payment Card Service](/payment-applications-docs//payment-service)
+- [Semafone App](/payment-applications-docs/semafone)
 
 
